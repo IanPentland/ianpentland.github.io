@@ -1,2 +1,3 @@
-#<center>Index</center>
-<center>Site is currently under construction, please check back later!</center>
+#Welcome
+***
+Site is under construction, please check back soon!
